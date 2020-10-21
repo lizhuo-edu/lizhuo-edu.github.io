@@ -72,25 +72,32 @@
                 <h4 class="info-job">Currently master student in Kyushu University</h4>
 
             </section>
-
+            
             <!-- 基本信息 -->
-            <section class="profile info-unit">
+            <section class="Introduction">
                 <h2>
-                    <i class="fa fa-user" aria-hidden="true"></i>Education</h2>
+                    <i class="fa fa-user" aria-hidden="true"></i>Introduction</h2>
                 <hr/>
                 <ul>
                     <li>
-                        <label>B.E.(2011.8-2015.7)</label>
-                        <span>School of Computer Science, Beijing University of Posts and Telecommunications</span>
+                        I am a master student at Kyushu University in Japan, and my advisors are <a href="https://malei.xyz/" target="_blank">Prof.Ma</a> and <a href="http://stap.ait.kyushu-u.ac.jp/~zhao/index.html" target="_blank">Prof.Zhao</a>. I am very honored to join the current team href="https://pangukaitian.github.io/pangu/en/index.html" target="_blank">Pangu Research Lab</a>, hoping to contribute to the development of software engineering and artificial intelligence.
                     </li>
+                    
+                </ul>
+            </section>
+            
+
+            <!-- 研究进展 -->
+            <section class="profile info-unit">
+                <h2>
+                    <i class="fa fa-user" aria-hidden="true"></i>Research Progress</h2>
+                <hr/>
+                <ul>
                     <li>
-                        <label>Research Student(2019.4-2020.3)</label>
-                        <span>School of Information Science and Electrical Engineering, Kyushu University</span>
+                        <label>Hua Qi, Qing Guo, Felix Juefei-Xu, Xiaofei Xie, Lei Ma, Wei Feng, Yang Liu, Jianjun Zhao. DeepRhythm: Exposing DeepFakes with Attentional Visual Heartbeat Rhythms</label>
+                        <span>The 28th ACM International Conference on Multimedia. (ACM MM 2020, CORE Rank A*/CCF A) </span>
                     </li>
-                    <li>
-                        <label>M.S.(2020.4-Now)</label>
-                        <span>School of Information Science and Electrical Engineering, Kyushu University</span>
-                    </li>
+                    
                 </ul>
             </section>
  
@@ -125,23 +132,23 @@
                     <hr/>
                     <ul>
                         <li>
-                            <label>Programming Language</label>
+                            <label>Programming Language:</label>
                             <span>Python, C++/C, C#, Java, Ruby, Go, Visual Basic, Shell</span>
                         </li>
                         <li>
-                            <label>Platform</label>
+                            <label>Platform:</label>
                             <span>Database, Operating System, Continue Integration, Containerization</span>
                         </li>
                         <li>
-                            <label>Advanced</label>
+                            <label>Advanced:</label>
                             <span>Cloud Computing (PaaS, Saas)</span>
                         </li>
                         <li>
-                            <label>Others</label>
+                            <label>Others:</label>
                             <span>中文, English, 日本語，français</span>
                         </li>
                     </ul>
-                </div> -->
+
                </section>
         </section>
 
