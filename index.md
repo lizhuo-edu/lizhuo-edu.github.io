@@ -121,7 +121,7 @@
             <section class="qrcode info-unit">
                 <hr/>
                 <img src="https://github.com/if2er/FeZaoDuKe-Collection/blob/master/ifeees.jpg?raw=true" style="width: 100%;" alt="">
-            </section>
+            
 
             <!-- 技术栈 -->
             <!-- <div class="stack info-unit">
@@ -142,6 +142,7 @@
                         </li>
                     </ul>
                 </div> -->
+               </section>
         </section>
 
         <section class="main">
@@ -177,37 +178,17 @@
                 <ul>
                     <li>
                         <h3>
-                            <span>[经历1]XX公司－前端开发工程师（实习）</span>
-                            <time>2016.X 至 2017.X</time>
+                            <span>Jiangsu Post and Telecommunications Planning and Design Institute－Network Engineer</span>
+                            <time>2015.8-2016.4</time>
                         </h3>
-                        <ul class="info-content">
-                            <li>深度参与XX项目迭代XX的前端开发工作，独立承担并完成XX、XX、XXXX等功能点的开发，主要维护并修复XX、XX、XX等功能点bug若干。项目采用技术栈
-                                <mark>React+React Router+Node.js+SASS</mark>，实现
-                                <mark>前后端完全分离</mark>。</li>
-                            <li>配合UI和后端，根据产品需求提供H5页面嵌入到后台模板，要求
-                                <mark>移动端显示正常</mark>。</li>
-                            <li>主要参与XXXXXXX的静态页面开发工作，要求
-                                <mark>在支付宝环境下完全兼容</mark>。</li>
-                        </ul>
+                        
                     </li>
                     <li>
                         <h3>
-                            <span>[经历2]XX－前端开发工程师（实习）</span>
-                            <time>20XX.10-20XX.7</time>
+                            <span>iSoftStone Information Technology (Group) Co.,Ltd.－Software Engineer</span>
+                            <time>2016.5-2019.3</time>
                         </h3>
-                        <ul class="info-content">
-                            <li>深度参与公司主线产品「XXXX」的前端开发工作，完成帖子快捷回复、
-                                <mark>全站图片懒加载</mark>、活动banner、帖子管理（使用Yii框架）等功能。项目采用技术栈phpWind+NAMP。
-                                <a href="http://itsay.tech/162/" target="_blank">
-                                    <i class="fa fa-link" aria-hidden="true"></i>博客文章</a>。</li>
-                            <li>主要参与公司产品「XXXX」的前端开发工作，实现接入微博、微信、QQ等
-                                <mark>第三方账号登录</mark>等功能。项目采用技术栈WordPress+NAMP。</li>
-                            <li>活动页面的开发（七夕活动、抽奖活动以及承接外包页面）。</li>
-                            <li>论坛
-                                <mark>图片增量备份</mark>（CentOS+vsftpd+crontab）
-                                <a href="#" target="_blank">
-                                    <i class="fa fa-link" aria-hidden="true"></i>博客文章</a>。</li>
-                        </ul>
+                        
                     </li>
                 </ul>
             </section>
