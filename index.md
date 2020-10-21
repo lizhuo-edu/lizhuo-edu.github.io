@@ -65,7 +65,7 @@
                         <span></span>
                     </div>
                     <!-- 头像照片 -->
-                    <img class="avatar" src="assets/images/lizhuo.jpg" onload="loading()">
+                    <img class="avatar" src="izhuo.jpg" onload="loading()">
                 </section>
 
                 <h1 class="name">Zhuo Li</h1>
