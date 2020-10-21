@@ -36,6 +36,24 @@
         <section class="side" id="side">
 
            
+            <!-- 联系方式 -->
+            <section class="contact info-unit">
+                <h2>
+                    <i class="fa fa-phone" aria-hidden="true"></i>Contact</h2>
+                <hr/>
+                <ul>
+                    <li>
+                        <label>E-mail</label>
+                        <a target="_blank">li.zhuo.786@s.kyushu-u.ac.jp</a>
+                    </li>
+                    <li>
+                        <label>Address</label>
+                        <a href="https://www.kyushu-u.ac.jp/" target="_blank">744 Motooka, Nishi-ku Fukuoka 819-0395, Japan/</a>
+                    </li>
+                    
+                </ul>
+            </section>
+           
             <!-- 个人肖像 -->
             <section class="me">
                 <section class="portrait">
@@ -66,71 +84,37 @@
                         <span>School of Computer Science, Beijing University of Posts and Telecommunications</span>
                     </li>
                     <li>
-                        <label>英语水平</label>
-                        <span>CET-6</span>
+                        <label>Research Student(2019.4-2020.3)</label>
+                        <span>School of Information Science and Electrical Engineering, Kyushu University</span>
                     </li>
                     <li>
-                        <label>计算机水平</label>
-                        <span>软考中级</span>
+                        <label>M.S.(2020.4-Now)</label>
+                        <span>School of Information Science and Electrical Engineering, Kyushu University</span>
                     </li>
                 </ul>
             </section>
  
-            <!-- 联系方式 -->
-            <section class="contact info-unit">
-                <h2>
-                    <i class="fa fa-phone" aria-hidden="true"></i>联系方式</h2>
-                <hr/>
-                <ul>
-                    <li>
-                        <label>手机</label>
-                        <a href="tel:15168285219" target="_blank">151-6828-5219</a>
-                    </li>
-                    <li>
-                        <label>邮箱</label>
-                        <a href="mailto:ze.zh@hotmail.com" target="_blank">ze.zh@hotmail.com</a>
-                    </li>
-                    <li>
-                        <label>个人主页</label>
-                        <a href="http://0b11111110.com/" target="_blank">0b11111110.com/</a>
-                    </li>
-                    <li>
-                        <label>Github</label>
-                        <a href="https://github.com/0b11111110" target="_blank">github.com/0b11111110</a>
-                    </li>
-                </ul>
-            </section>
+           
 
             <!-- 技能点 -->
             <section class="skill info-unit">
                 <h2>
-                    <i class="fa fa-code" aria-hidden="true"></i>技能点</h2>
+                    <i class="fa fa-code" aria-hidden="true"></i>Research Interest</h2>
                 <hr/>
                 <ul>
                     <li>
-                        <label>HTML</label>
+                        <label>Software Engineering</label>
                         <progress value="90" max="100"></progress>
                     </li>
                     <li>
-                        <label>CSS</label>
+                        <label>Deep Learning</label>
                         <progress value="85" max="100"></progress>
                     </li>
                     <li>
-                        <label>JavaScript</label>
+                        <label>Programming Language</label>
                         <progress value="85" max="100"></progress>
                     </li>
-                    <li>
-                        <label>React</label>
-                        <progress value="85" max="100"></progress>
-                    </li>
-                    <li>
-                        <label>Node.js</label>
-                        <progress value="70" max="100"></progress>
-                    </li>
-                    <li>
-                        <label>小程序</label>
-                        <progress value="70" max="100"></progress>
-                    </li>
+                    
                 </ul>
             </section>
 
