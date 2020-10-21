@@ -116,11 +116,7 @@
                     </li>
                     
                 </ul>
-            </section>
-
-            <section class="qrcode info-unit">
-                <hr/>
-                <img src="https://github.com/if2er/FeZaoDuKe-Collection/blob/master/ifeees.jpg?raw=true" style="width: 100%;" alt="">
+            
             
 
             <!-- 技术栈 -->
@@ -139,6 +135,10 @@
                         <li>
                             <label>Advanced</label>
                             <span>Cloud Computing (PaaS, Saas)</span>
+                        </li>
+                        <li>
+                            <label>Others</label>
+                            <span>中文, English, 日本語，français</span>
                         </li>
                     </ul>
                 </div> -->
