@@ -87,19 +87,23 @@
             </section>
             
 
-            <!-- 研究进展 -->
+            
+            
             <section class="profile info-unit">
                 <h2>
                     <i class="fa fa-user" aria-hidden="true"></i>Research Progress</h2>
                 <hr/>
                 <ul>
                     <li>
-                        <label>Hua Qi, Qing Guo, Felix Juefei-Xu, Xiaofei Xie, Lei Ma, Wei Feng, Yang Liu, Jianjun Zhao. DeepRhythm: Exposing DeepFakes with Attentional Visual Heartbeat Rhythms</label>
-                        <span>The 28th ACM International Conference on Multimedia. (ACM MM 2020, CORE Rank A*/CCF A) </span>
+                        <h3>
+                            <span>Hua Qi, Qing Guo, Felix Juefei-Xu, Xiaofei Xie, Lei Ma, Wei Feng, Yang Liu, Jianjun Zhao. DeepRhythm: Exposing DeepFakes with Attentional Visual Heartbeat Rhythms</span>
+                            <label>The 28th ACM International Conference on Multimedia. (ACM MM 2020, CORE Rank A*/CCF A) </label>
+                        
                     </li>
-                    
                 </ul>
             </section>
+
+            
  
            
 
