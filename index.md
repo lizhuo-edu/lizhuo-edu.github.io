@@ -80,7 +80,7 @@
                 <hr/>
                 <ul>
                     <li>
-                        I am a master student at Kyushu University in Japan, and my advisors are <a href="https://malei.xyz/" target="_blank">Prof.Ma</a> and  href="http://stap.ait.kyushu-u.ac.jp/~zhao/index.html" target="_blank">Prof.Zhao</a>. I am very honored to join the current team <a href="https://pangukaitian.github.io/pangu/en/index.html" target="_blank">Pangu Research Lab</a>, hoping to contribute to the development of software engineering and artificial intelligence.
+                        I am a master student at Kyushu University in Japan, and my advisors are <a href="https://malei.xyz/" target="_blank">Prof.Ma</a> and href="http://stap.ait.kyushu-u.ac.jp/~zhao/index.html" target="_blank">Prof.Zhao</a>. I am very honored to join the current team <a href="https://pangukaitian.github.io/pangu/en/index.html" target="_blank">Pangu Research Lab</a>, hoping to contribute to the development of software engineering and artificial intelligence.
                     </li>
                     
                 </ul>
@@ -97,8 +97,9 @@
                     <li>
                         <h3>
                             <span>Hua Qi, Qing Guo, Felix Juefei-Xu, Xiaofei Xie, Lei Ma, Wei Feng, Yang Liu, Jianjun Zhao. DeepRhythm: Exposing DeepFakes with Attentional Visual Heartbeat Rhythms</span>
-                            <label>The 28th ACM International Conference on Multimedia. (ACM MM 2020, CORE Rank A*/CCF A) </label>
                         
+                            <label>The 28th ACM International Conference on Multimedia. (ACM MM 2020, CORE Rank A*/CCF A) </label>
+                        </h3>
                     </li>
                 </ul>
             </section>
