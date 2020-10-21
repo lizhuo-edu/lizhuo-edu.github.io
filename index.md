@@ -96,7 +96,7 @@
  
            
 
-            <!-- 技能点 -->
+            <!-- 兴趣 -->
             <section class="skill info-unit">
                 <h2>
                     <i class="fa fa-code" aria-hidden="true"></i>Research Interest</h2>
@@ -126,20 +126,20 @@
 
             <!-- 技术栈 -->
             <!-- <div class="stack info-unit">
-                    <h2><i class="fa fa-code" aria-hidden="true"></i>其他</h2>
+                    <h2><i class="fa fa-code" aria-hidden="true"></i>Personal skills</h2>
                     <hr/>
                     <ul>
                         <li>
-                            <label>前端</label>
-                            <span>React、jQuery、微信小程序、Bootstrap、SASS、LESS</span>
+                            <label>Programming Language</label>
+                            <span>Python, C++/C, C#, Java, Ruby, Go, Visual Basic, Shell</span>
                         </li>
                         <li>
-                            <label>后端</label>
-                            <span>Node.js、MySQL、MongoDB、WordPress、ThinkPHP</span>
+                            <label>Platform</label>
+                            <span>Database, Operating System, Continue Integration, Containerization</span>
                         </li>
                         <li>
-                            <label>其他</label>
-                            <span>Git、SVN、Markdown</span>
+                            <label>Advanced</label>
+                            <span>Cloud Computing (PaaS, Saas)</span>
                         </li>
                     </ul>
                 </div> -->
@@ -155,19 +155,17 @@
                 <ul>
                     <li>
                         <h3>
-                            <span>XXXX大学 - XXX专业（硕士）</span>
-                            <time>201X.9-201X.7</time>
+                            <span>B.E.: School of Computer Science, Beijing University of Posts and Telecommunications</span>
+                            <time>2011.8-2015.7</time>
                         </h3>
-                        <p>专业排名
-                            <mark>X/XX</mark>，期间发表国际会议英文摘要X篇，国内核心期刊文章X篇（其中第一作者X篇），获XXX，XXX2次，XXX2次。(此处根据自身情况填写，可以突出自己的亮点，或者跟求职目标相关的内容)</p>
-                    </li>
-                    <li>
                         <h3>
-                            <span>XXXX大学 - XXX专业（本科）</span>
-                            <time>201X.9-201X.7</time>
+                            <span>Research Student: School of Information Science and Electrical Engineering, Kyushu University</span>
+                            <time>2019.4-2020.3</time>
                         </h3>
-                        <p>专业排名
-                            <mark>X/XX</mark>，期间发表国内核心期刊文章X篇，三等奖学金X次。</p>
+                        <h3>
+                            <span>M.S.: School of Information Science and Electrical Engineering, Kyushu University</span>
+                            <time>2020.4-Now</time>
+                        </h3>
                     </li>
                 </ul>
             </section>
