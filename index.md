@@ -202,6 +202,7 @@
                         </h3>
                         
                     </li>
+                    <!-- <li><h3><span>Fuxi AI Lab, NetEase, Inc.－Reinforcement Learning Researcher (Internship)</span><time>2020.6-2020.12</time></h3></li>-->
                 </ul>
             </section>
 
