@@ -96,9 +96,10 @@
                 <ul>
                     <li>
                         <h3>
-                            <span>Hua Qi, Qing Guo, Felix Juefei-Xu, Xiaofei Xie, Lei Ma, Wei Feng, Yang Liu, Jianjun Zhao. DeepRhythm: Exposing DeepFakes with Attentional Visual Heartbeat Rhythms</span>
                         
-                            <label>The 28th ACM International Conference on Multimedia. (ACM MM 2020, CORE Rank A*/CCF A) </label>
+
+                            <span>Hua Xuhong Ren, Bing Yu, Hua Qi, Felix Juefei-Xu, Zhuo Li, Wanli Xue, Lei Ma and Jianjun Zhao. Few-Shot Guided Mix for DNN Repairing.</span>
+                            <label>The 36th IEEE International Conference on Software Maintenance and Evolution, NIER Track (ICSME 2020, CORE Rank A)</label>
                         </h3>
                     </li>
                 </ul>
@@ -211,7 +212,7 @@
             <!-- 自我评价 -->
             <section class="work info-unit">
                 <h2>
-                    <i class="fa fa-pencil" aria-hidden="true"></i> expectation</h2>
+                    <i class="fa fa-pencil" aria-hidden="true"></i>Expectation</h2>
                 <hr/>
                 <p>There will be no white flag above my heart.</p>
             </section>
@@ -221,7 +222,7 @@
 
 
     <footer class="footer">
-        <p>© Last updated by Zhuo Li
+        <p>© Last updated by Zhuo Li at
             <time>21/10/2020</time>.</p>
     </footer>
 
@@ -237,4 +238,4 @@
     <script src="./assets/js/index.js"></script>
 </body>
 
-</html>
+
