@@ -43,12 +43,12 @@
                 <hr/>
                 <ul>
                     <li>
-                        <label>E-mail</label>
+                        <label>E-mail: </label>
                         <a target="_blank">li.zhuo.786@s.kyushu-u.ac.jp</a>
                     </li>
                     <li>
-                        <label>Address</label>
-                        <a href="https://www.kyushu-u.ac.jp/" target="_blank">744 Motooka, Nishi-ku Fukuoka 819-0395, Japan/</a>
+                        <label>Address: </label>
+                        <a href="https://www.kyushu-u.ac.jp/" target="_blank">744 Motooka, Nishi-ku Fukuoka 819-0395, Japan</a>
                     </li>
                     
                 </ul>
@@ -80,7 +80,7 @@
                 <hr/>
                 <ul>
                     <li>
-                        I am a master student at Kyushu University in Japan, and my advisors are <a href="https://malei.xyz/" target="_blank">Prof.Ma</a> and href="http://stap.ait.kyushu-u.ac.jp/~zhao/index.html" target="_blank">Prof.Zhao</a>. I am very honored to join the current team <a href="https://pangukaitian.github.io/pangu/en/index.html" target="_blank">Pangu Research Lab</a>, hoping to contribute to the development of software engineering and artificial intelligence.
+                        I am a master student at Kyushu University in Japan, and my advisors are <a href="https://malei.xyz/" target="_blank">Prof.Ma</a> and <a  href="http://stap.ait.kyushu-u.ac.jp/~zhao/index.html" target="_blank">Prof.Zhao</a>. I am very honored to join the current team <a href="https://pangukaitian.github.io/pangu/en/index.html" target="_blank">Pangu Research Lab</a>, hoping to contribute to the development of software engineering and artificial intelligence.
                     </li>
                     
                 </ul>
