@@ -117,10 +117,10 @@
                     
                 </ul>
             
-            
+            </section>
 
             <!-- 技术栈 -->
-            <!-- <div class="stack info-unit">
+            <section class="stack info-unit">
                     <h2><i class="fa fa-code" aria-hidden="true"></i>Personal skills</h2>
                     <hr/>
                     <ul>
