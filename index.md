@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html lang="zh-cn">
 
 <head>
     <meta charset="utf-8">
@@ -16,7 +15,7 @@
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
     <meta http-equiv="Pragma" content="no-cache" />
     <meta http-equiv="Expires" content="0" />
-    <title>[简历]张大侠-前端开发工程师/杭州</title>
+    <title>[Resume]Zhuo Li</title>
     <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="assets/css/typo.css">
     <link rel="stylesheet" href="assets/css/font-awesome.min.css">
@@ -36,31 +35,7 @@
     <article class="container">
         <section class="side" id="side">
 
-            <!-- 左栏固定开关，记得及时删除这段代码 Start-->
-            <label class="switch" style="display: none;" onchange="switchFixed()">
-                <script type="text/javaScript">
-                    function switchFixed(){
-                        var value = document.getElementById('side').style.position === 'fixed' ? 'absolute' : 'fixed';
-                        document.getElementById('side').style.position = value;
-                    }
-                </script>
-                <input id="cb" type="checkbox">
-                <span class="slider round"></span>
-            </label>
-            <style>
-                @media (min-width: 	750px){
-                    .switch{position:relative;display:inline-block!important;width:60px;height:34px;}
-                    .switch input{display:none;}
-                    .slider{position:absolute;cursor:pointer;top:0;left:0;right:0;bottom:0;background-color:#ccc;-webkit-transition:.4s;transition:.4s;}
-                    .slider:before{position:absolute;content:"";height:26px;width:26px;left:4px;bottom:4px;background-color:white;-webkit-transition:.4s;transition:.4s;}
-                    input:checked + .slider{background-color:#1abc9c;}
-                    input:focus + .slider{box-shadow:0 0 1px #1abc9c;}
-                    input:checked + .slider:before{-webkit-transform:translateX(26px);-ms-transform:translateX(26px);transform:translateX(26px);}.slider.round{border-radius:34px;}
-                    .slider.round:before{border-radius:50%;}
-                }
-            </style>
-            <!-- 左侧固定开关，记得及时删除这段代码 End-->
-
+           
             <!-- 个人肖像 -->
             <section class="me">
                 <section class="portrait">
@@ -72,23 +47,23 @@
                         <span></span>
                     </div>
                     <!-- 头像照片 -->
-                    <img class="avatar" src="assets/images/avatar.jpg" onload="loading()">
+                    <img class="avatar" src="assets/images/lizhuo.jpg" onload="loading()">
                 </section>
 
-                <h1 class="name">张大侠</h1>
-                <h4 class="info-job">前端开发工程师 / 杭州</h4>
+                <h1 class="name">Zhuo Li</h1>
+                <h4 class="info-job">Currently master student in Kyushu University</h4>
 
             </section>
 
             <!-- 基本信息 -->
             <section class="profile info-unit">
                 <h2>
-                    <i class="fa fa-user" aria-hidden="true"></i>基本信息</h2>
+                    <i class="fa fa-user" aria-hidden="true"></i>Education</h2>
                 <hr/>
                 <ul>
                     <li>
-                        <label>个人信息</label>
-                        <span>张大侠 / 男 / 24岁</span>
+                        <label>B.E.(2011.8-2015.7)</label>
+                        <span>School of Computer Science, Beijing University of Posts and Telecommunications</span>
                     </li>
                     <li>
                         <label>英语水平</label>
@@ -100,7 +75,7 @@
                     </li>
                 </ul>
             </section>
-
+ 
             <!-- 联系方式 -->
             <section class="contact info-unit">
                 <h2>
