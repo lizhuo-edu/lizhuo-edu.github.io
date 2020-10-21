@@ -119,7 +119,6 @@
             </section>
 
             <section class="qrcode info-unit">
-                <h2><i class="fa fa-qrcode" aria-hidden="true"></i>二维码</h2>
                 <hr/>
                 <img src="https://github.com/if2er/FeZaoDuKe-Collection/blob/master/ifeees.jpg?raw=true" style="width: 100%;" alt="">
             </section>
@@ -150,7 +149,7 @@
             <!-- 教育经历 -->
             <section class="edu info-unit">
                 <h2>
-                    <i class="fa fa-graduation-cap" aria-hidden="true"></i>教育经历</h2>
+                    <i class="fa fa-graduation-cap" aria-hidden="true"></i>Education</h2>
                 <hr/>
                 <ul>
                     <li>
@@ -173,7 +172,7 @@
             <!-- 工作经历 -->
             <section class="work info-unit">
                 <h2>
-                    <i class="fa fa-shopping-bag" aria-hidden="true"></i>工作经历</h2>
+                    <i class="fa fa-shopping-bag" aria-hidden="true"></i> Working Experience</h2>
                 <hr/>
                 <ul>
                     <li>
@@ -213,129 +212,14 @@
                 </ul>
             </section>
 
-            <!-- 项目经验 -->
-            <section class="project info-unit">
-                <h2>
-                    <i class="fa fa-terminal" aria-hidden="true"></i>个人项目</h2>
-                <hr/>
-                <ul>
-                    <li>
-                        <h3>
-                            <span>[项目1]医学科学数据管理与共享平台</span>
-                            <span class="link">
-                                <a href="#" target="_blank">Demo</a>
-                            </span>
-                            <time>201X.X-201X.X</time>
-                        </h3>
-                        <ul class="info-content">
-                            <li>技术栈：ThinkPHP+MongoDB+Axure</li>
-                            <li>
-                                <i class="fa fa-paper-plane-o" aria-hidden="true"></i>
-                                [目标]实现多类型多来源医学科学数据的提交、管理和共享
-                                <br/>
-                                <i class="fa fa-users" aria-hidden="true"></i>
-                                [团队]同 2 位同专业同学一起
-                                <br/>
-                                <i class="fa fa-bars" aria-hidden="true"></i>
-                                [贡献]完成从
-                                <mark>“调研-设计-实现-文档”</mark>等工作，主要负责系统原型、功能框架及数据提交流程、元数据及源数据的管理与共享方案的设计以及系统开发等工作
-                                <br/>
-                                <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
-                                [效果]作品最终取得第三届共享杯国家级竞赛“一等奖” （2/2000）</li>
-                        </ul>
-                    </li>
-                    <li>
-                        <h3>
-                            <span>[项目2]肿瘤流行病数据可视化</span>
-                            <span class="link">
-                                <a href="#" target="_blank">Demo</a>
-                            </span>
-                            <time>201X.X-201X.X</time>
-                        </h3>
-                        <ul class="info-content">
-                            <li>技术栈：HTML 5+D3.js+ECharts+MySQL</li>
-                            <li>
-                                <i class="fa fa-paper-plane-o" aria-hidden="true"></i>
-                                [目标]实现常见肿瘤流行病数据多维度可视化展示、数据透视及分析
-                                <br/>
-                                <i class="fa fa-users" aria-hidden="true"></i>
-                                [团队]与 1 位同学
-                                <br/>
-                                <i class="fa fa-bars" aria-hidden="true"></i>
-                                [贡献]分析项目需求，清洗并整理相关数据(扩展第三方知识组织系统和 Google trends 数据)，并用
-                                <mark>D3.js</mark> 和
-                                <mark>ECharts</mark> 进行图形化展示以及实现简易自动分析 功能
-                                <br/>
-                                <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
-                                [效果]作品取得第二届共享杯国家级竞赛“特等奖”(1/1500)
-                            </li>
-                        </ul>
-                    </li>
-                    <li>
-                        <h3>
-                            <span>[项目3]肿瘤流行病数据可视化</span>
-                            <span class="link">
-                                <a href="#" target="_blank">Demo</a>
-                            </span>
-                            <time>201X.X-201X.X</time>
-                        </h3>
-                        <ul class="info-content">
-                            <li>技术栈：HTML 5+D3.js+ECharts+MySQL</li>
-                            <li>
-                                <i class="fa fa-paper-plane-o" aria-hidden="true"></i>
-                                [目标]实现常见肿瘤流行病数据多维度可视化展示、数据透视及分析
-                                <br/>
-                                <i class="fa fa-users" aria-hidden="true"></i>
-                                [团队]与 1 位同学
-                                <br/>
-                                <i class="fa fa-bars" aria-hidden="true"></i>
-                                [贡献]分析项目需求，清洗并整理相关数据(扩展第三方知识组织系统和 Google trends 数据)，并用
-                                <mark>D3.js</mark> 和
-                                <mark>ECharts</mark> 进行图形化展示以及实现简易自动分析功能
-                                <br/>
-                                <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
-                                [效果]作品取得第二届共享杯国家级竞赛“特等奖”(1/1500)
-                            </li>
-                        </ul>
-                    </li>
-                    <li>
-                        <h3>
-                            <span>[项目4]肿瘤流行病数据可视化</span>
-                            <span class="link">
-                                <a href="#" target="_blank">Demo</a>
-                            </span>
-                            <time>201X.X-201X.X</time>
-                        </h3>
-                        <ul class="info-content">
-                            <li>技术栈：HTML 5+D3.js+ECharts+MySQL</li>
-                            <li>
-                                <i class="fa fa-paper-plane-o" aria-hidden="true"></i>
-                                [目标]实现常见肿瘤流行病数据多维度可视化展示、数据透视及分析
-                                <br/>
-                                <i class="fa fa-users" aria-hidden="true"></i>
-                                [团队]与 1 位
-                                <br/>
-                                <i class="fa fa-bars" aria-hidden="true"></i>
-                                [贡献]分析项目需求，清洗并整理相关数据(扩展第三方知识组织系统和 Google trends 数据)，并用
-                                <mark>D3.js</mark> 和
-                                <mark>ECharts</mark> 进行图形化展示以及实现简易自动分析 功能
-                                <br/>
-                                <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
-                                [效果]作品取得第二届共享杯国家级竞赛“特等奖”(1/1500)
-                            </li>
-                        </ul>
-                    </li>
-
-                </ul>
-            </section>
+            
 
             <!-- 自我评价 -->
             <section class="work info-unit">
                 <h2>
-                    <i class="fa fa-pencil" aria-hidden="true"></i>自我评价/期望</h2>
+                    <i class="fa fa-pencil" aria-hidden="true"></i> expectation</h2>
                 <hr/>
-                <p>[此处如果有一些能够量化的、且比较个性的指标会有加分，比如喜爱跑步坚持夜跑200小时或者200km等]
-                    <span class="mark-txt">“多静多思考，反省不张扬”</span>是我给自己总结的“十字箴言”，鞭策自己做人既不能以己度人，也不以人观己，要脚踏实地做事，坚持自己的梦想和本心。</p>
+                <p>There will be no white flag above my heart.</p>
             </section>
         </section>
     </article>
@@ -343,18 +227,15 @@
 
 
     <footer class="footer">
-        <p>© 2017 张大侠.文档最后更新时间为
-            <time>2018年06月20日</time>.</p>
+        <p>© Last updated by Zhuo Li
+            <time>21/10/2020</time>.</p>
     </footer>
 
     <!-- 侧栏 -->
     <aside>
         <ul>
             <li>
-                <a href="https://gitee.com/itsay/resume" target="_blank">源代码</a>
-            </li>
-            <li>
-                <a href="http://if2er.com/" target="_blank">Blog</a>
+                <a href="https://pangukaitian.github.io/pangu/jp/" target="_blank">知能ソフトウェア工学研究室</a>
             </li>
         </ul>
     </aside>
