@@ -101,6 +101,20 @@
                             <span>Hua Xuhong Ren, Bing Yu, Hua Qi, Felix Juefei-Xu, Zhuo Li, Wanli Xue, Lei Ma and Jianjun Zhao. Few-Shot Guided Mix for DNN Repairing.</span>
                             <label>The 36th IEEE International Conference on Software Maintenance and Evolution, NIER Track (ICSME 2020, CORE Rank A)</label>
                         </h3>
+                        
+                        <h3>
+                        
+
+                            <span>Maryam Vahdat Pour, Zhuo Li, Lei Ma, Hadi Hemmati. A Guided Mutation Approach for Testing and Improving Code Embedding Techniques.</span>
+                            <label>The IEEE International Conference on Software Testing, Verification and Validation 2021.(ICST 2021, CORE Rank A)</label>
+                        </h3>
+                        
+                        <h3>
+                        
+
+                            <span>Zhuo Li, Yuechen Wu, Lei Ma, Xiaofei Xie, Yingfeng Chen, Changjie Fan. GBGallery: A Game Testing Benchmark and Framework for the Next. </span>
+                            <label>Engineering.(EMSE-D-21-00005, CCF-B)</label>
+                        </h3>
                     </li>
                 </ul>
             </section>
