@@ -80,7 +80,7 @@
                 <hr/>
                 <ul>
                     <li>
-                        I am a master student at Kyushu University in Japan, and my advisors are <a href="https://malei.xyz/" target="_blank">Prof.Ma</a> and <a  href="http://stap.ait.kyushu-u.ac.jp/~zhao/index.html" target="_blank">Prof.Zhao</a>. I am very honored to join the current team <a href="https://pangukaitian.github.io/pangu/en/index.html" target="_blank">Pangu Research Lab</a>, hoping to contribute to the development of software engineering and artificial intelligence.
+                        I am a master student at Kyushu University in Japan, and my advisors are <a href="https://xiaofeixie.bitbucket.io/" target="_blank">Prof.Xie</a>, <a href="https://malei.xyz/" target="_blank">Prof.Ma</a> and <a  href="http://stap.ait.kyushu-u.ac.jp/~zhao/index.html" target="_blank">Prof.Zhao</a>. I am very honored to join the current team <a href="https://pangukaitian.github.io/pangu/en/index.html" target="_blank">Pangu Research Lab</a>, hoping to contribute to the development of software engineering and artificial intelligence.
                     </li>
                     
                 </ul>
