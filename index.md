@@ -20,9 +20,10 @@ My research interests include Artificial Intelligence, Software Engineering, Sec
 ## News and Updates
 
 - ***Jan 2023:*** One paper accepted to ICLR 2023, see you in Kigali, Rwanda!
+- ***Jul 2022:*** One paper accepted to Empirical Software Engineering!
 - ***Apr 2022:*** Selected as a [JST K-Spring](https://k-spring.kyushu-u.ac.jp/) scholarship recipient!
 - ***Apr 2022:*** Start of PhD studies!
-- ***Jul 2022:*** One paper accepted to Empirical Software Engineering!
+- ***Mar 2022:*** Got my master's degree in engineering!
 
 
 
