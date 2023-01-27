@@ -4,7 +4,6 @@ url: https://lizhuo-1994.github.io/
 # Owner/author information
 owner:
   name:           Zhuo Li
-  avatar:         lizhuo.png
 #  bio:
   email:          li.zhuo.786@s.kyushu-u.ac.jp
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -19,8 +18,8 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Projects
-    url: /projects/
+#  - title: Projects
+#    url: /projects/
 #  - title: Awards
 #    url: /awards/
 #  - title: Hobbies

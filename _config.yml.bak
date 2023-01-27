@@ -19,8 +19,8 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Projects
-    url: /projects/
+#  - title: Projects
+#    url: /projects/
 #  - title: Awards
 #    url: /awards/
 #  - title: Hobbies
@@ -29,17 +29,6 @@ links:
     url: /blogs/
 
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
-future: true
-highlighter: rouge
-# markdown: kramdown
-# markdown: redcarpet
-# pygments: true
-
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
 
 
 kramdown:
@@ -57,9 +46,6 @@ kramdown:
   #   coderay_css: class
 
 
-# disqus settings:
-disqus:
-  shortname: lancecai
 
 
 
