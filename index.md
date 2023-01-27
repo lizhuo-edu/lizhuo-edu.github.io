@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="lizhuo-main.jpg" class="floatpic" width="360" height="480">
+<img src="lizhuo-main.jpg" class="floatpic" width="120" height="140">
 
 
 
