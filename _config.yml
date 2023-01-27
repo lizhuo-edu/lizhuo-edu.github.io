@@ -4,8 +4,7 @@ url: https://lizhuo-1994.github.io/
 # Owner/author information
 owner:
   name:           Zhuo Li
-  avatar:         lizhuo.png
-#  bio:
+  avatar:         /lizhuo.png
 #  bio:
   email:          li.zhuo.786@s.kyushu-u.ac.jp
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -46,7 +45,6 @@ kramdown:
   #   coderay_tab_width: 4
   #   coderay_bold_every: 10
   #   coderay_css: class
-
 
 
 
