@@ -8,7 +8,7 @@ title: Publications
 
 ## Conference Paper
 
-- [Neural Episodic Control with State Abstraction](https://openreview.net/forum?id=C2fsSj3ZGiU&noteId=FXFpvxG6XsE).<br>**Zhuo Li**, Derui Zhu, Yujing Hu, Xiaofei Xie, Lei Ma, Yan Zheng, Yan Song, Yingfeng Chen, Jianjun Zhao.<br>The Eleventh International Conference on Learning Representations ([ICLR 2023](https://iclr.cc/Conferences/2023)).<br>Kigali, Rwanda. Jan, 2023.
+- [Neural Episodic Control with State Abstraction](https://openreview.net/forum?id=C2fsSj3ZGiU&noteId=FXFpvxG6XsE).<br>**Zhuo Li**, Derui Zhu, Yujing Hu, Xiaofei Xie, Lei Ma, Yan Zheng, Yan Song, Yingfeng Chen, Jianjun Zhao.<br>The Eleventh International Conference on Learning Representations ([ICLR 2023](https://iclr.cc/Conferences/2023)).<br>Kigali, Rwanda. Jan, 2023. (**Spotlight -notable-top-25%**)
 
 - [A Search-Based Testing Framework for Deep Neural Networks of Source Code Embedding](https://arxiv.org/pdf/2101.07910.pdf).<br>Maryam Vahdat Pour, **Zhuo Li**, Lei Ma, Hadi Hemmati.<br>IEEE International Conference on Software Testing, Verification and Validation 2021 ([ICST 2021](https://icst2021.icmc.usp.br/)).<br> Virtual. April, 2021.
 
