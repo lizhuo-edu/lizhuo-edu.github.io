@@ -23,7 +23,7 @@ My research interests include Artificial Intelligence, Software Engineering, Sec
 - ***Jul 2022:*** One paper accepted to Empirical Software Engineering!
 - ***Apr 2022:*** Selected as a [JST K-Spring](https://k-spring.kyushu-u.ac.jp/) scholarship recipient!
 - ***Apr 2022:*** Start of PhD studies!
-- ***Mar 2022:*** Got my master's degree in engineering!
+- ***Mar 2022:*** Got my Master's degree in Engineering!
 
 
 
