@@ -21,7 +21,4 @@ title: Publications
 
 - [GBGallery: A benchmark and framework for game testing](https://ink.library.smu.edu.sg/sis_research/7196/).<br>**Zhuo Li**, Yuechen Wu, Lei Ma, Xiaofei Xie, Yingfeng Chen, Changjie Fan.<br>Empirical Software Engineering (EMSE) Published by Springer Nature.<br>27. 10.1007/s10664-022-10158-x. 
 
-## Working Paper
 
-- QChecker: Detecting Bugs in Quantum Programs via Static Analysis.
-- An Empirical Study of Bugs in Quantum Machine Learning Frameworks.
