@@ -16,6 +16,7 @@ My research interests include Artificial Intelligence, Software Engineering, Sec
 
 ## News and Updates
 
+- ***Jul 2023:*** One paper accepted to ASE 2023, see you in Luxembourg! 
 - ***Jan 2023:*** One paper accepted to ICLR 2023, see you in Kigali, Rwanda! (**Spotlight -notable-top-25%**)
 - ***Jul 2022:*** One paper accepted to Empirical Software Engineering!
 - ***Apr 2022:*** Selected as a [JST K-Spring](https://k-spring.kyushu-u.ac.jp/) scholarship recipient!
