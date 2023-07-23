@@ -10,7 +10,7 @@ title: Publications
 
 - [Generative Model-Based Testing on Decision-Making Policies](https://conf.researchr.org/track/ase-2023/ase-2023-papers).<br>**Zhuo Li**, Xiongfei Wu, Derui Zhu, Mingfei Cheng, Siyuan Chen, Fuyuan Zhang, Xiaofei Xie, Lei Ma, Jianjun Zhao<br>The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023).<br>Kirchberg, Luxembourg. September 11, 2023.
 
-- [An Empirical Study of Bugs in Quantum Machine Learning Frameworks](https://arxiv.org/abs/2306.06369).<br>Pengzhan Zhao, Xiongfei Wu, Junjie Luo, **Zhuo Li**, Jianjun Zhao<br>The IEEE International Conference on Quantum Software (QSW).<br>Chicago, Illinois USA. Jul 2, 2023. <br>**The Best Student Paper Award of the IEEE Quantum Software 2023.**
+- [An Empirical Study of Bugs in Quantum Machine Learning Frameworks](https://arxiv.org/abs/2306.06369).<br>Pengzhan Zhao, Xiongfei Wu, Junjie Luo, **Zhuo Li**, Jianjun Zhao<br>The IEEE International Conference on Quantum Software (QSW).<br>Chicago, Illinois USA. Jul 2, 2023. (**The Best Student Paper Award of the IEEE Quantum Software 2023**)
 
 - [QChecker: Detecting Bugs in Quantum Programs via Static Analysis](https://conf.researchr.org/home/icse-2023/q-se-2023).<br>Pengzhan Zhao, Xiongfei Wu, **Zhuo Li**, Jianjun Zhao<br>The 4th International Workshop on Quantum Software Engineering (Q-SE 2023).<br>Melbourne, Australia. May 14, 2023. 
 
