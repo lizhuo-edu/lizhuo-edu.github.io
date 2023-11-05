@@ -12,7 +12,7 @@ Prior to becoming a Ph.D. candidate, I received my B.S. degree from Beijing Univ
 
 ## Research Interests
 
-My research interests include Artificial Intelligence, Software Engineering, Security and Privacy. Currently I focus on the performance, efficiency, security and reliability of deep reinforcement learning algorithms. I would be happy to discuss and collaborate with researchers interested in the above topics.
+My research is mainly about Reinforcement Learning (RL), including the RL sample efficiency, reliability, Security, Privacy, etc. I am glad to discuss and collaborate with researchers interested in the above topics.
 
 ## News and Updates
 
