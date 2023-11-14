@@ -12,7 +12,7 @@ Prior to becoming a Ph.D. candidate, I received my B.S. degree from Beijing Univ
 
 ## Research Interests
 
-My research is mainly about Reinforcement Learning (RL), including the RL sample efficiency, reliability, Security, Privacy, etc. I am glad to discuss and collaborate with researchers interested in the above topics.
+My research is mainly about Reinforcement Learning (RL), including the RL sample efficiency, reliability, Security, Privacy, etc. I am glad to discuss and collaborate with researchers interested to the above topics.
 
 ## News and Updates
 
@@ -20,7 +20,7 @@ My research is mainly about Reinforcement Learning (RL), including the RL sample
 - ***Jan 2023:*** One paper accepted to ICLR 2023, see you in Kigali, Rwanda! (**Spotlight -notable-top-25%**)
 - ***Jul 2022:*** One paper accepted to Empirical Software Engineering!
 - ***Apr 2022:*** Selected as a [JST K-Spring](https://k-spring.kyushu-u.ac.jp/) scholarship recipient!
-- ***Apr 2022:*** Start of PhD studies!
+- ***Apr 2022:*** Start of Ph.D course!
 - ***Mar 2022:*** Got my Master's degree in Engineering!
 
 
