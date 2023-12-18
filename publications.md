@@ -25,4 +25,6 @@ title: Publications
 
 - [**GBGallery: A benchmark and framework for game testing**](https://ink.library.smu.edu.sg/sis_research/7196/).<br>**Zhuo Li**, Yuechen Wu, Lei Ma, Xiaofei Xie, Yingfeng Chen, Changjie Fan.<br>Empirical Software Engineering, 2022, 27(6): 140.
 
+- [**Safe Reinforcement Learning via Episodic Control**](https://lizhuo-edu.github.io).<br>**Zhuo Li**, Xiongfei Wu, Xiaofei Xie, Lulu Zhu, Derui Zhu, Mingfei Cheng, Lei Ma, Jianjun Zhao.<br>[Submitted].
+
 
