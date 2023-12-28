@@ -7,7 +7,7 @@ layout: page
 
 
 
-Currently a Ph.D. student in [**Pangu Lab**](https://pangukaitian.github.io/pangu/?lg=en&tab=home), Kyushu University, Japan. My advisor is [**Prof.Jianjun Zhao**](http://stap.ait.kyushu-u.ac.jp/~zhao/). Prior to becoming a Ph.D. candidate, I received my B.S. degree at Beijing University of Posts and Telecommunications in 2015 and my M.Eng. degree in Engineering at Kyushu University in 2022.
+Currently a Ph.D. student in [**Pangu Lab**](https://pangukaitian.github.io/pangu/?lg=en&tab=home), Kyushu University, Japan. My advisor is [**Prof.Jianjun Zhao**](http://stap.ait.kyushu-u.ac.jp/~zhao/). Prior to becoming a Ph.D. candidate, I received my B.Eng. degree at Beijing University of Posts and Telecommunications in 2015 and my M.Eng. degree in Engineering at Kyushu University in 2022.
 
 ## Research Interests
 
